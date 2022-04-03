@@ -1,0 +1,9 @@
+.nav-link{
+    margin-right: 30px;
+    transition: 0.5s;
+}
+.nav-link:hover{
+    background-color: #ffffff;
+    padding: 5px;
+    border-radius: 10px;
+}

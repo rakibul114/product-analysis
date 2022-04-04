@@ -16,6 +16,9 @@ const Home = () => {
             offer interior design services within all over the country mostly in
             city areas.
           </p>
+          <button className="text-center text-white font-bold rounded-md py-2 mt-6 w-2/12 focus:outline-none bg-red-900">
+            LIVE DEMO
+          </button>
         </div>
         <img src={image} alt="" />
       </div>

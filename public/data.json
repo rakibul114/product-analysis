@@ -1,58 +1,58 @@
 [
   {
-    "id": "624a2cea715eec543bfe2579",
-    "image": "https://i.ibb.co/XSwyDGc/kitchen-adams.jpg",
-    "name": "Kitchen Adams",
-    "rating": 4,
-    "desc": "Tempor ea ut aute eu nostrud et minim anim adipisicing velit esse in aute do. Laborum cupidatat esse ad et tempor enim elit irure aliquip.\r\n"
-  },
-  {
-    "id": "624a2cea8147e185d2f22b17",
-    "image": "https://i.ibb.co/d2WfStY/luxury-gossip.jpg",
-    "name": "Luxury Gossip",
-    "rating": 4.5,
-    "desc": "Duis officia nulla culpa reprehenderit et deserunt. Voluptate cillum labore sunt elit consequat fugiat amet cillum labore elit. Officia esse culpa occaecat occaecat nostrud labore do sunt id.\r\n"
-  },
-  {
-    "id": "624a2cead6b52d971b625681",
-    "image": "https://i.ibb.co/tQCzH75/couple-palace.jpg",
-    "name": "Couple Palace",
-    "rating": 5,
-    "desc": "Sint do enim cillum aute officia nulla incididunt nostrud consectetur laboris officia consectetur id ex. Commodo reprehenderit est voluptate incididunt eiusmod voluptate ut.\r\n"
-  },
-  {
     "id": "624a2cea7194eecc540512fd",
-    "image": "https://i.ibb.co/g6gP1Dr/personal-work-station.jpg",
-    "name": "Personal Work Station",
+    "image": "https://i.ibb.co/VwVd4pd/nina-phoria.jpg",
+    "name": "Nina Phoria",
     "rating": 5,
-    "desc": "Ex ad ea laborum esse ea. Do sint eiusmod dolore elit occaecat. Esse sunt culpa commodo esse laboris velit veniam id sunt elit tempor commodo. Qui ipsum est mollit laborum.\r\n"
+    "desc": "I couldn’t believe how beautiful and spacious the place looked- I actually considered taking it off the market and moving back in! I have no doubt that the staging was a major reason I got multiple offers over asking within 24 hours, and resulted in me getting thousands of dollars more than I would have if the place was empty! I would recommend you and your associates to anyone looking to sell.\r\n"
+  },
+  {
+    "id": "624a2cea764bf89585b7b68c",
+    "image": "https://i.ibb.co/Xz2fqhv/patrick-johns.jpg",
+    "name": "Patrick Johns",
+    "rating": 5,
+    "desc": "Ines, Principal of Envision Redesign, is outstanding. She has such an eye for design, layout, spatial options and an understanding of how to capture the attention of the client or buyer. She's a wonderful person to work with, has thorough knowledge and experience with new construction and pre-existing homes.\r\n"
   },
   {
     "id": "624a2ceaad58c3fedf6b0b1e",
-    "image": "https://i.ibb.co/f2z22P7/heaven-feels.jpg",
-    "name": "Heaven Feels",
+    "image": "https://i.ibb.co/CBwNjdR/chloe.jpg",
+    "name": "Chloe",
     "rating": 4,
-    "desc": "Amet incididunt et ut aute. Dolore commodo nisi ipsum exercitation. Ex nulla aliqua elit et labore adipisicing sit ad pariatur. Laboris incididunt voluptate dolore sint.\r\n"
+    "desc": "When potential buyers walk into the house they are able to see the house in its fullest potential, an important aspect that can sometimes be a struggle for potential buyers if the house is vacant or poorly staged. The homes by Envision Redesign are smartly designed, with interesting but clean color schemes and attention to detail most designers cannot attain.\r\n"
   },
   {
     "id": "624a2cead8c9b85bdd3859ae",
-    "image": "https://i.ibb.co/nwJvpGv/kitchen-sprinkle.jpg",
-    "name": "Kitchen Sprinkle",
+    "image": "https://i.ibb.co/Tk1T12Q/adams-anderson.jpg",
+    "name": "Adams Anderson",
     "rating": 5,
     "desc": "Voluptate in qui voluptate do consectetur pariatur aute elit duis consequat labore sunt pariatur. Id Lorem eiusmod cillum ex deserunt ad non.\r\n"
   },
   {
     "id": "624a2cea352a921ac66bc9b1",
-    "image": "https://i.ibb.co/s5xL2wm/solo-living.jpg",
-    "name": "Solo Living",
+    "image": "https://i.ibb.co/bzCQnYM/stefan-stefancik.jpg",
+    "name": "Stefan Stefancik",
     "rating": 5,
     "desc": "Magna nostrud laborum consectetur eu culpa cillum. Velit quis est culpa Lorem consequat velit ad magna incididunt nostrud veniam esse.\r\n"
   },
   {
-    "id": "624a2cea764bf89585b7b68c",
-    "image": "https://i.ibb.co/y0GX8mB/perfect-leisure.jpg",
-    "name": "Perfect Leisure",
+    "id": "624a2cea715eec543bfe2579",
+    "image": "https://i.ibb.co/wWCqTYN/daniel-xavier.jpg",
+    "name": "Daniel Xavier",
+    "rating": 4,
+    "desc": "Tempor ea ut aute eu nostrud et minim anim adipisicing velit esse in aute do. Laborum cupidatat esse ad et tempor enim elit irure aliquip.\r\n"
+  },
+  {
+    "id": "624a2cea8147e185d2f22b17",
+    "image": "https://i.ibb.co/Vqzy7kH/vinicius-wiesehofer.jpg",
+    "name": "Vinicius Wiesehofer",
+    "rating": 4.5,
+    "desc": "Duis officia nulla culpa reprehenderit et deserunt. Voluptate cillum labore sunt elit consequat fugiat amet cillum labore elit. Officia esse culpa occaecat occaecat nostrud labore do sunt id.\r\n"
+  },
+  {
+    "id": "624a2cead6b52d971b625681",
+    "image": "https://i.ibb.co/VWxvvpB/andrea-piacquadio.jpg",
+    "name": "Andrea Piacquadio",
     "rating": 5,
-    "desc": "Tempor enim sit tempor labore amet labore et. Exercitation irure id sunt pariatur. Minim sit do ullamco pariatur ut consequat laboris exercitation cillum et.\r\n"
+    "desc": "Sint do enim cillum aute officia nulla incididunt nostrud consectetur laboris officia consectetur id ex. Commodo reprehenderit est voluptate incididunt eiusmod voluptate ut.\r\n"
   }
 ]

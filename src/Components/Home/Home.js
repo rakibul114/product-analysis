@@ -37,7 +37,7 @@ const Home = () => {
         <h1 className="text-5xl text-center font-bold my-8">
           Customers Reviews
         </h1>
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-2 justify-items-center">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 justify-items-center w-5/6 mx-auto">
           {services.slice(0, 3).map((service) => (
             <Service key={service.id} service={service}></Service>
           ))}

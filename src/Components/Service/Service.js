@@ -1,8 +1,7 @@
 import React from 'react';
 import './Service.css';
 
-const Service = ({service}) => {
-    console.log(service);
+const Service = ({service}) => {    
     const { name, image, rating, desc } = service;
     return (
       <div className="single-review">

@@ -17,7 +17,7 @@ const Dashboard = () => {
             <h2 className="text-2xl font-bold text-center my-2">
               Investment VS Revenue
             </h2>
-            <BarChart width={730} height={250} data={charts} className="mb-5">
+            <BarChart width={730} height={350} data={charts} className="mb-5">
               <CartesianGrid strokeDasharray="3 3" />
               <XAxis dataKey="month"></XAxis>
               <YAxis></YAxis>
@@ -35,7 +35,7 @@ const Dashboard = () => {
             </h2>
             <AreaChart
               width={730}
-              height={250}
+              height={350}
               data={charts}
               margin={{ top: 10, right: 30, left: 0, bottom: 0 }}
             >
@@ -70,6 +70,28 @@ const Dashboard = () => {
             </AreaChart>
           </div>
 
+          {/*Composed Chart */}
+          <div>
+            <h2 className="text-2xl font-bold text-center my-2">
+              Investment, Sell & Revenue
+            </h2>
+            <ComposedChart width={730} height={350} data={charts}>
+              <XAxis dataKey="name" />
+              <YAxis />
+              <Tooltip />
+              <Legend />
+              <CartesianGrid stroke="#f5f5f5" />
+              <Area
+                type="monotone"
+                dataKey="investment"
+                fill="#8884d8"
+                stroke="#8884d8"
+              />
+              <Bar dataKey="sell" barSize={20} fill="#413ea0" />
+              <Line type="monotone" dataKey="revenue" stroke="#ff7300" />
+            </ComposedChart>
+          </div>
+
           {/*Pie Chart */}
           <div>
             <h2 className="text-2xl font-bold text-center my-2">
@@ -97,28 +119,6 @@ const Dashboard = () => {
                 label
               />
             </PieChart>
-          </div>
-
-          {/*Composed Chart */}
-          <div>
-            <h2 className="text-2xl font-bold text-center my-2">
-              Investment, Sell & Revenue
-            </h2>
-            <ComposedChart width={730} height={250} data={charts}>
-              <XAxis dataKey="name" />
-              <YAxis />
-              <Tooltip />
-              <Legend />
-              <CartesianGrid stroke="#f5f5f5" />
-              <Area
-                type="monotone"
-                dataKey="investment"
-                fill="#8884d8"
-                stroke="#8884d8"
-              />
-              <Bar dataKey="sell" barSize={20} fill="#413ea0" />
-              <Line type="monotone" dataKey="revenue" stroke="#ff7300" />
-            </ComposedChart>
           </div>
         </div>
       </div>

@@ -13,7 +13,7 @@ const Home = () => {
 
   const showAllReviews = () => {
     navigate('/reviews');
-  }
+  };
     return (
       <div>
         <div className="home flex items-center justify-around my-8">
@@ -42,6 +42,7 @@ const Home = () => {
             <Service key={service.id} service={service}></Service>
           ))}
         </div>
+        
         <button
           onClick={showAllReviews}
           className="review-button text-center text-white font-bold rounded-md py-2 my-6 w-2/12 bg-red-900"

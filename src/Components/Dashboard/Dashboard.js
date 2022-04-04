@@ -11,7 +11,7 @@ const Dashboard = () => {
     
     return (
       <div>
-        <div className="grid lg:grid-cols-2 md:grid-cols-1 justify-items-center my-7">
+        <div className="grid lg:grid-cols-2 md:grid-cols-1 grid-cols-1 justify-items-center my-7">
           {/*Bar Chart */}
           <div>
             <h2 className="text-2xl font-bold text-center my-2">

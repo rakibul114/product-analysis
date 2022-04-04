@@ -5,8 +5,8 @@ import './Header.css';
 
 const Header = () => {
     return (
-      <div>
-        <nav className="bg-slate-300 text-2xl text-center py-8 font-medium md:w-auto w-100%">          
+      <div className="w-auto md:w-auto lg:w-auto">
+        <nav className="bg-slate-300 text-2xl text-center py-8 font-medium">
           <Link className="nav-link" to="/">
             Home
           </Link>

@@ -1,9 +1,8 @@
 .nav-link{
     margin-right: 30px;
-    transition: 0.5s;
+    transition: 1s;
 }
 .nav-link:hover{
-    background-color: #ffffff;
-    padding: 5px;
-    border-radius: 10px;
+    border-top: 2px solid red;
+    border-bottom: 2px solid red; 
 }

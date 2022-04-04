@@ -4,7 +4,7 @@ import image from '../Assets/about-cover.jpg';
 const About = () => {
     return (
       <div>
-        <div className="home flex items-center justify-around my-8">
+        <div className="home flex items-center justify-around my-8 mx-auto grid md:grid-cols-2 grid-cols-1 w-5/6 justify-items-center">
           <div>
             <h1 className="text-8xl font-bold">
               Elite<br></br>Interior Design
@@ -30,7 +30,7 @@ const About = () => {
               on the space.
             </p>
           </div>
-          <img src={image} alt="" />
+          <img className='my-6' src={image} alt="" />
         </div>
       </div>
     );

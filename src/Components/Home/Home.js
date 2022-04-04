@@ -16,16 +16,16 @@ const Home = () => {
   };
     return (
       <div>
-        <div className="home flex items-center justify-around my-8">
-          <div>
+        <div className="home my-8 mx-auto grid md:grid-cols-2 grid-cols-1 w-5/6 justify-items-center">
+          <div className="my-auto">
             <h1 className="text-6xl font-bold">
               WE SEE...<br></br>WHAT CAN BE
             </h1>
             <p className="text-xl text-justify mt-5">
               Elite Interior Design provides premium interior design services
-              that guarantee results.<br></br> Elite Interior specializes in
+              that guarantee results. Elite Interior specializes in
               Home Renovations, New Builds, Decor and Commercial Projects.
-              <br></br> We offer interior design services within all over the
+              We offer interior design services within all over the
               country mostly in city areas.
             </p>
             <button className="text-center text-white font-bold rounded-md py-2 mt-6 w-2/12 focus:outline-none bg-red-900">
@@ -34,7 +34,7 @@ const Home = () => {
           </div>
           <img src={image} alt="" />
         </div>
-        <h1 className="text-5xl text-center font-bold my-8">
+        <h1 className="text-5xl text-center font-bold my-10 border-t-1">
           Customers Reviews
         </h1>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 justify-items-center w-5/6 mx-auto">
@@ -42,7 +42,7 @@ const Home = () => {
             <Service key={service.id} service={service}></Service>
           ))}
         </div>
-        
+
         <button
           onClick={showAllReviews}
           className="review-button text-center text-white font-bold rounded-md py-2 my-6 w-2/12 bg-red-900"

@@ -1,6 +1,6 @@
 # Website: Elite Interior Design
 
-## Live site: Click [http://localhost:3000](http://localhost:3000) to visit the live website
+## Live site: Click [https://elite-interior-design-rakibul114.netlify.app/](https://elite-interior-design-rakibul114.netlify.app/) to visit the live website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).## Available Scripts
 

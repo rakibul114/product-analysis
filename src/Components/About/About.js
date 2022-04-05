@@ -11,9 +11,9 @@ const About = () => {
             </h1>
             <p className="text-xl text-justify mt-5">
               Elite Interior Design provides premium interior design services
-              that guarantee results.<br></br> Elite Interior specializes in
+              that guarantee results. Elite Interior specializes in
               Home Renovations, New Builds, Decor and Commercial Projects.
-              <br></br> We offer interior design services within all over the
+               We offer interior design services within all over the
               country mostly in city areas.
             </p>
             <p className="font-bold text-justify mt-5">
@@ -22,15 +22,15 @@ const About = () => {
             </p>
             <p className="text-slate-400 text-justify mt-5">
               At Elite Interior we believe that every space has more potential
-              which we can tap into to help make your home<br></br> more
+              which we can tap into to help make your home more
               appealing to buyers and sell it for top dollar or to redesign it
-              to fit your family and lifestyle. Taking each <br></br>clients'
+              to fit your family and lifestyle. Taking each clients'
               situation, home style, location and buyer demographic into
-              consideration, we tailor our services to maximize <br></br>impact
+              consideration, we tailor our services to maximize impact
               on the space.
             </p>
           </div>
-          <img className='my-6' src={image} alt="" />
+          <img className='my-6 ml-8' src={image} alt="" />
         </div>
       </div>
     );

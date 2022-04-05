@@ -1,6 +1,14 @@
 # Website: Elite Interior Design
 
-## Live site: Click [https://elite-interior-design-rakibul114.netlify.app/](https://elite-interior-design-rakibul114.netlify.app/) to visit the live website
+## Live site: Click [https://elite-interior-design-rakibul114.netlify.app/](https://elite-interior-design-rakibul114.netlify.app/) to visit the live website.
+
+## Project workings:
+
+* Creating React App: First of all I have created the the React App using "npx create-react-app app-name" command.
+* Installation: Then I installed tailwind CSS and React fontAwesome.
+* Components: Created all necessary components for my application.
+* Data creation: Created data for reviews page.
+* Deployment: After completing the project I deployed the project on Netlify.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).## Available Scripts
 

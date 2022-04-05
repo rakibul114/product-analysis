@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Website: Elite Interior Design
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live site: Click [http://localhost:3000](http://localhost:3000) to visit the live website
 
-## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).## Available Scripts
 
 In the project directory, you can run:
 

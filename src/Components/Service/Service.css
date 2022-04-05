@@ -12,5 +12,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
+}
+.single-review .design-pic{
+    width: 100px;
+    height: 100px;
 }

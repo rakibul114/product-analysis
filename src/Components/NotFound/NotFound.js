@@ -3,10 +3,9 @@ import image from '../Assets/404-page.jpg';
 
 const NotFound = () => {
     return (
-        <div className='page-notfound'>
-            <h1>This page you are looking for is not available</h1>
-            <img src={image} alt="" />
-        </div>
+      <div className="notfound-pic">        
+        <img className="w-screen" src={image} alt="" />
+      </div>
     );
 };
 

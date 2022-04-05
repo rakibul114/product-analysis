@@ -8,15 +8,20 @@ import { faQuoteLeft } from '@fortawesome/free-solid-svg-icons';
 
 
 const Service = ({service}) => {    
-    const { name, image, rating, desc } = service;
+    const { name, image, rating, desc,photo } = service;
     return (
       <div className="single-review rounded-2xl">
         <FontAwesomeIcon
           className="p-2 w-10 text-gray-400"
           icon={faQuoteLeft}
         ></FontAwesomeIcon>
-        <p className="my-7 mx-6 pt-8">
-          {desc.length > 20 ? desc.slice(0, 200) : name}
+        <img
+          className="design-pic mx-auto rounded-xl transform hover:scale-150 duration-300"
+          src={photo}
+          alt=""
+        />
+        <p className="my-7 mx-6 pt-2">
+          {desc.length > 20 ? desc.slice(0, 180) : name}
         </p>
         <div className="card-info">
           <img className="rounded-full ml-0" src={image} alt="" />
@@ -26,8 +31,9 @@ const Service = ({service}) => {
         </div>
         <p className="text-center my-2 font-semibold">
           <small>
-            Ratings: {rating} 
-            <Rating className='ml-1'
+            Ratings: {rating}
+            <Rating
+              className="ml-1"
               initialRating={rating}
               emptySymbol={<FontAwesomeIcon icon={faStar} />}
               fullSymbol={

@@ -1,4 +1,5 @@
-.page-notfound img{
-    height: 100vh;
-    width: 100vh;
+.notfound-pic img{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
 }

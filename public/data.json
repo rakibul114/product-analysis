@@ -1,6 +1,7 @@
 [
   {
     "id": "624a2cea7194eecc540512fd",
+    "photo": "https://i.ibb.co/0QDHyVf/couple-palace.jpg",
     "image": "https://i.ibb.co/VwVd4pd/nina-phoria.jpg",
     "name": "Nina Phoria",
     "rating": 5,
@@ -8,6 +9,7 @@
   },
   {
     "id": "624a2cea764bf89585b7b68c",
+    "photo": "https://i.ibb.co/1GRhgTn/heaven-feels.jpg",
     "image": "https://i.ibb.co/Xz2fqhv/patrick-johns.jpg",
     "name": "Patrick Johns",
     "rating": 4,
@@ -15,6 +17,7 @@
   },
   {
     "id": "624a2ceaad58c3fedf6b0b1e",
+    "photo": "https://i.ibb.co/wrHgHsv/kitchen-adams.jpg",
     "image": "https://i.ibb.co/CBwNjdR/chloe.jpg",
     "name": "Chloe Jemison",
     "rating": 4.5,
@@ -22,6 +25,7 @@
   },
   {
     "id": "624a2cead8c9b85bdd3859ae",
+    "photo": "https://i.ibb.co/Bwfm8gC/kitchen-sprinkle.jpg",
     "image": "https://i.ibb.co/Tk1T12Q/adams-anderson.jpg",
     "name": "Adams Anderson",
     "rating": 5,
@@ -29,6 +33,7 @@
   },
   {
     "id": "624a2cea352a921ac66bc9b1",
+    "photo": "https://i.ibb.co/D4Hvb4V/luxury-gossip.jpg",
     "image": "https://i.ibb.co/bzCQnYM/stefan-stefancik.jpg",
     "name": "Stefan Stefancik",
     "rating": 5,
@@ -36,6 +41,7 @@
   },
   {
     "id": "624a2cea715eec543bfe2579",
+    "photo": "https://i.ibb.co/K7WNLnq/perfect-leisure.jpg",
     "image": "https://i.ibb.co/wWCqTYN/daniel-xavier.jpg",
     "name": "Daniel Xavier",
     "rating": 4,
@@ -43,6 +49,7 @@
   },
   {
     "id": "624a2cea8147e185d2f22b17",
+    "photo": "https://i.ibb.co/z7yNPWW/personal-work-station.jpg",
     "image": "https://i.ibb.co/Vqzy7kH/vinicius-wiesehofer.jpg",
     "name": "Vinicius Wiesehofer",
     "rating": 4.5,
@@ -50,6 +57,7 @@
   },
   {
     "id": "624a2cead6b52d971b625681",
+    "photo": "https://i.ibb.co/jHmxS5J/solo-living.jpg",
     "image": "https://i.ibb.co/VWxvvpB/andrea-piacquadio.jpg",
     "name": "Andrea Piacquadio",
     "rating": 5,
